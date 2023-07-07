@@ -1,0 +1,169 @@
+
+
+
+@media screen and (max-width: 1100px){
+
+    .hero-container {
+    height: auto;
+}
+
+
+.hero-row {
+      padding:150px 50px 50px ;
+      
+}
+
+
+
+.about-row {
+      padding: 100px 50px ;
+
+}
+
+
+
+.testimonial-container { 
+      height:auto;
+
+    }
+
+.testimonial-row {     
+      padding:100px 50px ;
+      
+}
+
+.testimonial-row h1 {
+      padding-top:0px;
+      
+}
+
+
+
+.service-row {    
+      padding: 100px 50px;
+     
+}
+.service-row div div {
+      margin: auto;
+      margin-top:20px;
+}
+
+
+
+.gallary-row div div {
+      width: 100%;
+      height: 200px;
+    
+}
+
+
+
+
+.team-row {
+      padding: 100px 30px;
+    
+}
+
+.team-row div div {
+	  width: 100%;
+      margin: auto;
+      margin-top: 20px;       
+}
+
+
+
+.bloge-row iframe {
+	width: 350px;
+	margin-top:10px ;
+}
+
+
+
+.review-row  {    
+      padding: 100px 30px;
+      text-align: center;
+      
+
+}
+
+.review-row p {
+      margin-bottom: 50px;
+
+}
+
+.review-row div div {
+	  width: 100%;
+      margin:auto;
+     
+}
+
+.review-row div div p {
+      font-size:18px ;
+      font-weight:600;
+      color:black;
+
+}
+
+
+.footer-container { 
+      height:auto;
+                  
+    }
+
+.footer-row { 
+     padding:0px 50px;
+     text-align: center;
+
+ }    
+
+
+.footer-row div p { 
+      text-align: center;
+       
+        }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 800px){
+
+	.gallary-row div div {
+      width:300px;
+}
+
+
+
+
+.team-row {
+      padding: 100px 30px;
+    
+}
+
+.team-row div div {
+	  width: 250px;
+      margin: auto;
+      margin-top: 20px;       
+}
+
+
+
+.review-row div div {
+	  width:250px;
+      margin:auto;
+      margin-top: 20px;
+}
+
+
+
+}
